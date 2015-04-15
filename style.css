@@ -1,0 +1,49 @@
+html{
+	color: #fff;
+	background-color: #333;
+	background-image: url(bg.jpg);
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	/* Good Type */
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;	
+	text-shadow: 0px 0px 5px rgba(255, 255, 255, 0.25)
+	}
+
+#elirousso{
+	margin: 50px;
+	width: 460px;
+	}
+	
+h1{
+	font-size: 48px;
+	}              
+	
+	
+a {
+	color:#fff;
+	text-decoration: none;
+	border-bottom: 2px solid #fff;
+	}
+	
+a:hover{
+	background-color: #fff;
+	color: #222;
+	}
+	
+ul {
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+	}
+	
+li {
+	margin-bottom: 20px;
+	}
+
+.note {
+	font-weight: normal;
+	color: #500;
+	text-shadow: none;
+	}
