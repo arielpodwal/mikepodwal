@@ -1,2 +1,0 @@
-# mikepodwal.github.com
-# mikepodwal
